@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo
-- 👀 I’m interested in Forth, graphics, technology for Video Games
+- 👀 I’m interested in Forth, Education, Graphics Algorithms, Technology for Video Games
 - 📫 email me to pabloreda@gmail.com
 
 <!---
