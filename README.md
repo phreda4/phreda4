@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Pablo
-- 📫 email me to pabloreda@gmail.com
+- 👋 Hi, I’m Pablo. I'm develop forth/r3 language.
+- I am looking for people who want to port the language to LINUX, MAC and Rpi. I offer to show the internal part to be able to do the conversion and teach how work.
+- write me if you are interested to 📫 pabloreda@gmail.com
